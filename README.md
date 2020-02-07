@@ -3,7 +3,7 @@
 
 
 
-[Overview}(https://github.com/rjreeves/plex2/Overview)
+[Overview](https://github.com/rjreeves/plex2/Overview)
 
 [Configurations](https://github.com/rjreeves/plex2/Configurations)
 
