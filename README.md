@@ -3,8 +3,8 @@
 
 
 
-(https://github.com/rjreeves/plex2/Overview)
+[Overview}(https://github.com/rjreeves/plex2/Overview)
 
-(https://github.com/rjreeves/plex2/Configurations)
+[Configurations](https://github.com/rjreeves/plex2/Configurations)
 
-(https://github.com/rjreeves/plex2/blob/master/How%20To.md)
+[How To](https://github.com/rjreeves/plex2/blob/master/How%20To.md)
