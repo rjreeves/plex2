@@ -24,4 +24,8 @@ So in the folder <em><strong>/etc/systemd/system</strong></em> two files to make
 <em><strong>systemctl daemon-reload</strong></em><br>
 and maybe<br>
 <em><strong>systemctl restart systemd</strong></em></p>
+<h2 id="auto-software-updates">Auto Software Updates</h2>
+<p>Using the cockpit app go to <strong>Software Updates</strong><br>
+Turn on Automatic Updates.</p>
+<p>Currently I set to All Updates at 6am daily!</p>
 
